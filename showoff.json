@@ -1,0 +1,9 @@
+{
+  "name": "Subdomains and Custom Domains in Rails 3",
+  "description": "Nashville Rails Meetup",
+  "sections": [
+    {"section":"intro"},
+    {"section":"subdomain"},
+    {"section":"domain"}
+  ]
+}
